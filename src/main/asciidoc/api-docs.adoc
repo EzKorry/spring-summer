@@ -1,0 +1,5 @@
+= 상품
+== 상품 등록
+include::{snippets}/user-controller-test/post_db_test/http-request.adoc[]
+include::{snippets}/user-controller-test/post_db_test/request-fields.adoc[]
+include::{snippets}/user-controller-test/post_db_test/http-response.adoc[]
